@@ -1,7 +1,7 @@
 # drools-springboot
 Drools is an open-source Business Rule Management System (BRMS) written in Java, part of the KIE (Knowledge Is Everything) project
 
-
+[Read about our setup drl-references](./drl-reference.md)
 
 ---
 The **quick way (a trick/strategy)** to get comfortable with Drools DRL (Drools Rule Language).
